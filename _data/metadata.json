@@ -1,0 +1,26 @@
+{
+  "title": "CDA Machine Learners, Coeur d'Alene Idaho",
+  "url": "https://cdamachinelearners.com",
+  "domain": "cdamachinelearners.com",
+  "description": "Official website of the CDA Machine Learners AI & ML Club",
+  "genre": "Technology",
+  "googleAnalyticsId": "XXX",
+  "sendWebVitals": false,
+  "feed": {
+    "subtitle": "CDA Machine Learners AI & ML Club",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://cdamachinelearners.com"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://cdamachinelearners.com/feed/feed.json"
+  },
+  "author": {
+    "name": "AI",
+    "twitterHandle": false
+  },
+  "publisher": {
+    "name": "AI"
+  }
+}
