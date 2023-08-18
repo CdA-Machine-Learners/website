@@ -2,6 +2,11 @@
   border-radius: 50%;text-align: center;display: block;
 }
 
+footer .logo {
+  height: 50px;
+  width: 50px;
+}
+
 /* Color customization */
 :root {
   --primary: #f9c412;
