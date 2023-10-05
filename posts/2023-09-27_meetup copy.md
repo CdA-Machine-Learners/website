@@ -1,0 +1,36 @@
+---
+title: Meetup Notes for October 4, 2030
+description: 
+date: 2023-10-04
+tags:
+  - events
+layout: layouts/post.njk
+image: 
+---
+
+- Attendance: 13
+- Weather: ☀️ 67°
+
+# AI in the news and discussion
+
+- Teaching AI comedy
+- Chat GPT audio
+- Sushi & AI
+- The Emerald podcast episode - [The Body is the Metaverse](https://www.buzzsprout.com/317042/9659563-the-body-is-the-metaverse)
+- Sword Art Online
+- Using AI bot to help you garden
+  + Bot that destroys weeds with a targeted laser
+- Paper looking at using LLM to drive cars
+  +  [All in Podcast talks about LLMs and how they are being used for autonomous driving](https://www.reddit.com/r/SelfDrivingCars/comments/16xihz4/all_in_podcast_talks_about_llms_and_how_they_are/)
+- Using an LLM for image compression beating algorithms
+- Challeng is accurately converting reality to digital space
+  + NeRF alg to make a topological map from sensor data
+- Chat GPT vision model can answer the question of where you are with just a photo of the intersection
+- [Palantir](https://www.palantir.com/) - a company that is using AI to help the military
+- [Biden to sign AI Executive order in days](https://www.cnn.com/2023/09/27/tech/-joe-biden-executive-order-artificial-intelligence/index.html)
+https://www.whitehouse.gov/ostp/ai-bill-of-rights/
+  + [Blueprint for an AI Bill of Rights](https://www.whitehouse.gov/ostp/ai-bill-of-rights/)
+- [Your Undivided Attention](https://www.humanetech.com/podcast)
+   + [Center for Humane Technology](humanetech.com)
+- [Class action against OpenAI](https://www.reuters.com/legal/litigation/openai-microsoft-hit-with-new-us-consumer-privacy-class-action-2023-09-06/)
+- [FB AI features](https://about.fb.com/news/2023/09/introducing-ai-powered-assistants-characters-and-creative-tools/)
