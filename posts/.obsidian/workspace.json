@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-11-15_meetup.md",
+                "file": "2023-12-13_meetup.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-11-15_meetup.md",
+                "file": "2023-12-13_meetup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-11-15_meetup.md",
+                "file": "2023-12-13_meetup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-11-15_meetup.md"
+                "file": "2023-12-13_meetup.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "8a76e2a1c39e7b1c",
   "lastOpenFiles": [
-    "2023-11-08_meetup.md",
+    "2023-12-06_meetup.md",
+    "2023-12-13_meetup.md",
+    "2023-11-29_meetup.md",
     "2023-11-15_meetup.md",
+    "2023-11-08_meetup.md",
     "2023-11-01_meetup.md",
     "2023-10-25_meetup.md",
     "2023-10-18_meetup.md",
